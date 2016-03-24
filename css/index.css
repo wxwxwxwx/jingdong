@@ -1723,9 +1723,11 @@ border-right: 1px solid #EDEDED;
 border-bottom: 1px solid #EDEDED;
 }
 .brand{
+	width: 1210px;
+	height: 40px;
 	padding-left: 0;
 	background: #f7f7f7;
-padding: 13px 0 13px 11px;
+padding: 13px 0 13px 0px;
 margin-top: 10px;
 display: block;
 }
@@ -1743,8 +1745,8 @@ text-align: center;
 .f3{
 	height: 578px;
 	width: 1210px;
-	margin-bottom: 30px;
 	margin: 0 auto;
+	margin-bottom: 30px;
 	display: block;
 }
 .cosmetics{
@@ -1804,18 +1806,12 @@ font-family: "microsoft yahei";
 
 	position: relative;
 width: 210px;
+height: 474px;
 background: #e5ebeb;
 overflow: hidden;
 display: block;
 }
-.cosmetics .mc .main{
-width: 1000px;
-height: 474px;
-float: left;
-display: block;
-overflow: hidden;
-font-family: "microsoft yahei";
-}
+
 .cosmetics .banner{
 position: relative;
 height: 474px;
@@ -1893,33 +1889,179 @@ line-height: 26px;
 }
 .cosmetics .themes span{
 	font-size: 14px;
-margin-right: 5px;
-float: left;
-height: 26px;
-overflow: hidden;
-line-height: 26px;
-font-family: "microsoft yahei";
+	margin-right: 5px;
+	float: left;
+	height: 26px;
+	overflow: hidden;
+	line-height: 26px;
+	font-family: "microsoft yahei";
 }	
+.cosmetics .words{
+	position: relative;
+height: 76px;
+background: rgba(255,255,255,.7);
+margin-bottom: 0px;
+}
+.cosmetics .words li{
+	float: left;
+width: 165px;
+height: 48px;
+padding: 7px 0 0 25px;
+overflow: hidden;
+}
+.cosmetics .words a{
 
+margin-right: 10px;
+line-height: 24px;
+white-space: nowrap;
+color: #999;
+}
 .cosmetics .assists{
 	position: relative;
-height: 48px;
-padding: 21px 0 0;
-font-size: 14px;
-line-height: 24px;
-overflow: hidden;
-background: rgba(255,255,255,.7);
-display: block;
+	height: 48px;
+	padding: 21px 0 0;
+	font-size: 14px;
+	line-height: 24px;
+	overflow: hidden;
+	background: rgba(255,255,255,.7);
+	display: block;
 }
 .assists li{
-float: left;
-width: 180px;
-height: 24px;
-padding-left: 25px;
-overflow: hidden;	
+	float: left;
+	width: 180px;
+	height: 24px;
+	padding-left: 25px;
+	overflow: hidden;	
 }
 .assists a{
-font-size: 14px;
-line-height: 24px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.cosmetics .mc .main{
+	width: 1000px;
+	height: 474px;
+	float: left;
+	display: block;
+	overflow: hidden;
+	font-family: "microsoft yahei";
+}
+.main .maininner{
+	padding-left: 340px;
+	display: block;
+}
+.main .solider{
+	width: 339px;
+	height: 473px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 439px;
+	height: 236px;
+	overflow: hidden;
+	border-right: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+	display: block;
+} 
+.mainbody{
+float: left;
+width: 440px;
+display: block;
+height: 474px;
+}
+.main li{
+float: left;
+width: 220px;
+height: 177px;
+}
+
+.main .bore1{
+height: 297px;
+}
+.main .bore2{
+height: 297px;
+}
+.mainbody .bore1 a{
+	width: 219px;
+height: 296px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+}
+.mainbody .bore2 a{
+	width: 219px;
+height: 296px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+}
+.mainbody .bore3 a{
+	width: 219px;
+height: 176px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+}
+.mainbody .bore4 a{
+	width: 219px;
+height: 176px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+}
+
+.mainexter{
+float: left;
+width: 220px;
+height: 474px;
+display: block;
+
+}
+.mainexter .bore2{
+height: 177px;
+}
+
+.mainexter .bore1 a{
+		width: 219px;
+height: 296px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+}
+.mainexter .bore2 a{
+		width: 219px;
+height: 176px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+}
+.f4{
+	height: 140px;
+margin: 0 auto;
+margin-top: 30px;
+width: 1210px;
+}
+
+.floorbanner2{
+	display: block;
+}
+.f4 .floorbanner{
+	    background: transparent url("../image/banner2.jpg") repeat scroll center top;
+height: 110px;
+margin-bottom: 30px;
+overflow: visible;
+_overflow: hidden;
+display: block;
+}
+.floorbannermain{
+overflow: hidden;
+margin: 0 auto;
+width: 1200px;
+display: block;
 }
 /*botall end*/
