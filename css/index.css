@@ -1777,7 +1777,7 @@ line-height: 30px;
 }
 .f3 .tab_item a{
 float: left;
-height: 31px;
+height: 32px;
 padding: 0 11px;
 text-decoration: none;
 line-height: 34px;
@@ -1835,9 +1835,10 @@ vertical-align: top;
 }
 .cosmetics .themes{
 	position: relative;
-padding-left: 10px;
+padding-left: 0px;
 height: 92px;
-margin-top: -210px;
+width: 210px;
+margin-top: -237px;
 overflow: hidden;
 background: rgba(255,255,255,.5);
 display: block;
@@ -1849,6 +1850,76 @@ height: 26px;
 padding: 10px 0;
 }
 .cosmetics .themes a{
+	padding-left: 10px;
+	width: 96px;
+	height: 26px;
 	float: left;
+}
+.bore1 .icon{
+background: url(../image/f2icon.png) 0 0 no-repeat;
+width: 26px;
+margin-right: 5px;
+float: left;
+height: 26px;
+overflow: hidden;
+line-height: 26px;
+}
+.bore2 .icon{
+background: url(../image/f2icon.png) 0 -26px no-repeat;
+width: 26px;
+margin-right: 5px;
+float: left;
+height: 26px;
+overflow: hidden;
+line-height: 26px;
+}
+.bore3 .icon{
+background: url(../image/f2icon.png) 0 -52px no-repeat;
+width: 26px;
+margin-right: 5px;
+float: left;
+height: 26px;
+overflow: hidden;
+line-height: 26px;
+}
+.bore4 .icon{
+background: url(../image/f2icon.png) 0 -78px no-repeat;
+width: 26px;
+margin-right: 5px;
+float: left;
+height: 26px;
+overflow: hidden;
+line-height: 26px;
+}
+.cosmetics .themes span{
+	font-size: 14px;
+margin-right: 5px;
+float: left;
+height: 26px;
+overflow: hidden;
+line-height: 26px;
+font-family: "microsoft yahei";
+}	
+
+.cosmetics .assists{
+	position: relative;
+height: 48px;
+padding: 21px 0 0;
+font-size: 14px;
+line-height: 24px;
+overflow: hidden;
+background: rgba(255,255,255,.7);
+display: block;
+}
+.assists li{
+float: left;
+width: 180px;
+height: 24px;
+padding-left: 25px;
+overflow: hidden;	
+}
+.assists a{
+font-size: 14px;
+line-height: 24px;
 }
 /*botall end*/
