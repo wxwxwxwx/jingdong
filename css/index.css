@@ -3320,12 +3320,195 @@ overflow: hidden;
 width: 219px;
 height: 236px;
 }
+.f12{
+	height: 578px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;
+}
+.foods{
+	display: block;
+	overflow: hidden;
+	width: 1210px;
+	height: 511px;
+}
+.foods .mt i{
+background: url(../image/pro.png?__sprite) no-repeat 0 0;
+background-position: 0 0;
+position: absolute;
+top: 2px;
+left: 0;
+width: 21px;
+height: 25px;
+padding-right: 10px;
 
+font-size: 13px;
+color: #fff;
+text-align: center;
+overflow: hidden;
+font-family: "microsoft yahei";
+font-weight: 400;
+line-height: 30px;
+}
+.f12 .tab{
+	width: 632px;
+	height: 34px;
+	margin-top: 1px;
+	float: right;
+display: inline;
+border: solid 1px #ededed;
+border-bottom: 0 none;
+line-height: 34px;
+z-index: 1;
+list-style: none;
+}
 
-
-
-
-.f9{
+.f12.tab_item a{
+float: left;
+height: 32px;
+padding: 0 16px;
+text-decoration: none;
+line-height: 34px;
+overflow: hidden;
+background: #fff;
+white-space: nowrap;
+margin-top: 0px;
+}
+.f12 .mc{
+	width: 1210px;
+	height: 474px;
+}
+.f12 .side{
+	width: 210px;
+	height: 474px;
+}
+.f12 .mainselecter{
+width: 1000px;
+	height: 474px;
+}
+.f12 .sideinner{
+	position: relative;
+width: 210px;
+background: #e5ebeb;
+overflow: hidden;
+display: block;
+}
+.f12 .themes{
+	display: block;
+	position: relative;
+padding-left: 10px;
+height: 92px;
+width: 210px;
+margin-top: -237px;
+overflow: hidden;
+background: rgba(255,255,255,.5);
+}
+.f12 .themes li{
+	float: left;
+width: 98px;
+height: 26px;
+padding: 10px 0;
+}
+.f12 .themes a{
+	float: left;
+width: 92px;
+height: 26px;
+}
+.f12 .themes .bore1 .icon{
+	background: url(../image/f9icon.png) 0 0 no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f12 .themes .bore2 .icon{
+	background: url(../image/f9icon.png) 0 -26px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f12 .themes .bore3 .icon{
+	background: url(../image/f9icon.png) 0 -52px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f12 .themes .bore2 .icon{
+	background: url(../image/f9icon.png) 0 -78px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f12 .words{
+	height: 76px;
+}
+.f12 .words li{
+float: left;
+width: 165px;
+height: 48px;
+padding: 7px 0 0 25px;
+overflow: hidden;
+}
+.f12 .words a{
+float: left;
+/*width: 36px;
+height: 24px;*/
+margin-right: 10px;
+line-height: 24px;
+}
+.f12 .words span{
+line-height: 0;
+}
+.words{
+	font-family: 宋体;
+}
+.f12 .mainbody{
+	float: left;
+width: 780px;
+display: block;
+}
+.f12 .mainbody li{
+float: left;
+height: 237px;
+width: 220px;
+overflow: hidden;
+font-size: 0;
+}
+.f12 .mainbody .bore2{
+padding-left: 340px;}
+.f12 .mainbody .bore4{
+padding-left: 340px;}
+.f12 .mainbody a{
+float: left;
+height: 236px;
+width: 219px;
+overflow: hidden;
+font-size: 0;
+}
+.f12 .mainextra li{
+width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 237px;
+}
+.f12 .mainextra a{
+	display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+width: 219px;
+height: 236px;
+}
+.f13{
+height: 140px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;	
+}
+.f13 .floorbanner{
+    background: transparent url("../image/o.jpg") repeat scroll center top;
+    height: 110px;
+margin-bottom: 30px;
+overflow: visible;
+}
+.f14{
 
 	height: 577px;
 margin: 0 auto;
@@ -3334,15 +3517,381 @@ width: 1210px;
 background: 0 0;
 
 }
-.f9{
+.books{
+	display: block;
+	overflow: hidden;
+	width: 1210px;
+	height: 511px;
+}
+.books .mt i{
+background: url(../image/pro.png?__sprite) no-repeat 0 0;
+background-position: 0 0;
+position: absolute;
+top: 2px;
+left: 0;
+width: 21px;
+height: 25px;
+padding-right: 10px;
 
-	height: 577px;
+font-size: 13px;
+color: #fff;
+text-align: center;
+overflow: hidden;
+font-family: "microsoft yahei";
+font-weight: 400;
+line-height: 30px;
+}
+.f14 .tab{
+	width: 678px;
+	height: 34px;
+	margin-top: 1px;
+	float: right;
+display: inline;
+border: solid 1px #ededed;
+border-bottom: 0 none;
+line-height: 34px;
+z-index: 1;
+list-style: none;
+}
+
+.f14.tab_item a{
+float: left;
+height: 32px;
+padding: 0 16px;
+text-decoration: none;
+line-height: 34px;
+overflow: hidden;
+background: #fff;
+white-space: nowrap;
+margin-top: 0px;
+}
+.f14 .mc{
+	width: 1210px;
+	height: 474px;
+}
+.f14 .side{
+	width: 210px;
+	height: 474px;
+}
+.f14 .mainselecter{
+width: 1000px;
+	height: 474px;
+}
+.f14 .sideinner{
+	position: relative;
+width: 210px;
+background: #e5ebeb;
+overflow: hidden;
+display: block;
+}
+.f14 .themes{
+	display: block;
+	position: relative;
+padding-left: 10px;
+height: 92px;
+width: 210px;
+margin-top: -237px;
+overflow: hidden;
+background: rgba(255,255,255,.5);
+}
+.f14 .themes li{
+	float: left;
+width: 98px;
+height: 26px;
+padding: 10px 0;
+}
+.f14 .themes a{
+	float: left;
+width: 92px;
+height: 26px;
+}
+.f14 .themes .bore1 .icon{
+	background: url(../image/f10icon.png) 0 0 no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f14 .themes .bore2 .icon{
+	background: url(../image/f10icon.png) 0 -26px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f14 .themes .bore3 .icon{
+	background: url(../image/f10icon.png) 0 -52px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f14 .themes .bore2 .icon{
+	background: url(../image/f10icon.png) 0 -78px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f14 .words{
+	height: 76px;
+}
+.f14 .words li{
+float: left;
+width: 165px;
+height: 48px;
+padding: 7px 0 0 25px;
+overflow: hidden;
+}
+.f14 .words a{
+float: left;
+/*width: 36px;
+height: 24px;*/
+margin-right: 10px;
+line-height: 24px;
+}
+.f14 .words span{
+line-height: 0;
+}
+.words{
+	font-family: 宋体;
+}
+.f14 .mainselecter{
+position: relative;
+float: left;
+width: 1000px;
+height: 474px;
+overflow: hidden;}
+.f14 .maininner{
+	float: left;
+	position: absolute;
+left: 0;
+top: 0;
+display: block;
+}
+.f14 .mainextra{
+	float: left;
+width: 220px;
+display: block;
+}
+.f14 .mainextra li{
+	width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 237px;
+}
+.f14 .mainextra a{
+	width: 219px;
+	height: 236px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;}
+.f14 .mainbody{
+width: 440px;
+padding-top: 237px;
+float: left;
+position: absolute;
+left: 220px;
+display: block;
+}
+.f14 .mainbody li{
+float: left;
+height: 237px;
+width: 220px;
+overflow: hidden;
+font-size: 0;
+}
+
+.f14 .mainbody a{
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+height: 236px;
+width: 219px;
+
+}
+
+.author{
+	position: absolute;
+left: 660px;
+top: 0;
+width: 340px;
+height: 473px;
+display: block;
+}
+.smt{
+height: 34px;
+padding-top: 13px;
+border-right: 1px solid #EDEDED;
+overflow: hidden;
+display: block;
+}
+
+
+.smt h3{
+margin: 0 15px 0 10px;
+padding-left: 5px;
+padding-bottom: 10px;
+font-size: 20px;
+line-height: 23px;
+border-bottom: 1px solid #e4e4e4;
+font-family: "microsoft yahei";
+font-weight: 400;
+display: block;
+}
+
+.smc{
+	height: 426px;
+padding-left: 15px;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+}
+.smc li{
+height: 80px;
+margin-top: 20px;
+overflow: hidden;
+}
+.author-info{
+float: left;
+width: 48px;
+padding: 2px 15px 0 4px;
+text-align: center;
+display: block;
+}
+.author-info img{
+vertical-align: top;
+width: 48px;
+height: 48px;
+border-radius: 50%;
+margin-bottom: 6px;
+}
+.author-info span{
+display: block;
+height: 18px;
+overflow: hidden;
+}
+.smc .p-img{
+	float: left;
+padding-left: 8px;
+width: 80px;
+height: 80px;
+border-left: 1px dotted #dbdbdb;
+overflow: hidden;
+display: block;
+padding-top: 0px;
+}
+.smc .p-img a{
+width: 80px;
+height: 14px;
+}
+.smc .p-img img{
+	border: 0;
+vertical-align: top;
+}
+.smc .p-info{
+	float: left;
+	padding: 0 0;
+padding-left: 10px;
+display: block;
+width: 150px;
+height: 77px;
+}
+.p-name{
+width: 150px;
+height: 18px;
+margin-bottom: 5px;
+font-size: 14px;
+font-family: "microsoft yahei";
+overflow: hidden;
+display: block;
+}
+
+.p-detail{
+position: relative;
+width: 115px;
+height: 34px;
+padding: 10px 15px 10px 20px;
+background: #f8f8f8;
+color: #999;
+overflow: visible;
+display: block;
+}
+.p-detail p{
+height: 38px;
+overflow: hidden;
+word-break: break-all;
+display: block;
+}
+.detail-arrow{
+position: absolute;
+left: -9px;
+top: 19px;
+color: #f8f8f8;
+font-size: 20px;}
+.icon-l{
+position: absolute;
+left: 4px;
+top: 7px;
+font-size: 38px;
+line-height: 38px;
+color: #aaa;
+font-family: Arial;}
+
+
+.f15{
+height: 577px;
 margin: 0 auto;
 margin-bottom: 30px;
 width: 1210px;	
-background: 0 0;
+background: 0 0;	
+}
+.life{
+width: 1210px;
+height: 512px;
+overflow: hidden;
 
 }
+.life .mt{
+	border-bottom: 1px solid #c81623;
+overflow: visible;
+width: 1210px;
+height: 36px;
+position: relative;
+}
+.life .mt i{
+background: url(../image/pro.png?__sprite) no-repeat 0 0;
+background-position: 0 0;
+position: absolute;
+top: 2px;
+left: 0;
+width: 21px;
+height: 25px;
+padding-right: 10px;
+
+font-size: 13px;
+color: #fff;
+text-align: center;
+overflow: hidden;
+font-family: "microsoft yahei";
+font-weight: 400;
+line-height: 30px;
+}
+.life .mt h2{
+	position: relative;
+padding-left: 40px;
+color: #333;
+float: left;
+display: inline;
+line-height: 30px;
+font-size: 20px;
+font-family: "microsoft yahei";
+font-weight: 400;
+}
+
+
+.life .mc{
+width: 1210px;
+height:475px;	
+overflow: hidden;
+float: left;
+}
+
+
 .f9{
 
 	height: 577px;
