@@ -1863,7 +1863,7 @@ padding: 10px 0;
 	height: 26px;
 	float: left;
 }
-.bore1 .icon{
+.f3 .bore1 .icon{
 background: url(../image/f2icon.png) 0 0 no-repeat;
 width: 26px;
 margin-right: 5px;
@@ -1872,7 +1872,7 @@ height: 26px;
 overflow: hidden;
 line-height: 26px;
 }
-.bore2 .icon{
+.f3 .bore2 .icon{
 background: url(../image/f2icon.png) 0 -26px no-repeat;
 width: 26px;
 margin-right: 5px;
@@ -1881,7 +1881,7 @@ height: 26px;
 overflow: hidden;
 line-height: 26px;
 }
-.bore3 .icon{
+.f3 .bore3 .icon{
 background: url(../image/f2icon.png) 0 -52px no-repeat;
 width: 26px;
 margin-right: 5px;
@@ -1890,7 +1890,7 @@ height: 26px;
 overflow: hidden;
 line-height: 26px;
 }
-.bore4 .icon{
+.f3 .bore4 .icon{
 background: url(../image/f2icon.png) 0 -78px no-repeat;
 width: 26px;
 margin-right: 5px;
@@ -2188,7 +2188,7 @@ height: 26px;
 	background: url(../image/f3-icon.png) 0 -26px no-repeat;
 
 }
-.f5 .mc .themes .bore3 .icon{
+.f5 .mc .themes .bore2 .icon{
 	background: url(../image/f3-icon.png) 0 -52px no-repeat;
 
 }
@@ -2735,8 +2735,621 @@ border-right: 1px solid #EDEDED;
 border-bottom: 1px solid #EDEDED;
 overflow: hidden;
 }
-.onebot .mc{
-	width: 1208px;
-	height: 232px;
+.mainselecter .mainextra{
+	float: left;
+width: 220px;
+display: block;
+height: 474px;
+}
+.f8 .mainextra .bore1{
+width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 118px;
+}
+.f8 .mainextra .bore2{
+width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 119px;
+}
+.f8 .mainextra .bore3{
+width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 237px;
+}
+.f8 .mainextra .bore1 a{
+width: 219px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+height: 117px;	
+}
+.f8 .mainextra .bore2 a{
+width: 219px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+height: 117px;	
+}
+.f8 .mainextra .bore3 a{
+width: 219px;
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+height: 236px;	
+}
+.f9{
+
+	height: 577px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;
+
+}
+.sports{
+	overflow: hidden;
+	width: 1210px;
+	height: 511px;
+	display: block;
+}
+.f9 .mt{
+border-bottom: 1px solid #c81623;
+overflow: visible;
+width: 1210px;
+height: 36px;
+}
+.f9 .mt i{
+background: url(../image/pro.png?__sprite) no-repeat 0 0;
+background-position: 0 0;
+position: absolute;
+top: 2px;
+left: 0;
+width: 21px;
+height: 25px;
+padding-right: 10px;
+
+font-size: 13px;
+color: #fff;
+text-align: center;
+overflow: hidden;
+font-family: "microsoft yahei";
+font-weight: 400;
+line-height: 30px;
+}
+.f9 .tab{
+	float: right;
+	width: 550px;
+	height: 34px;
+	margin-top: 1px;
+	
+display: inline;
+border: solid 1px #ededed;
+border-bottom: 0 none;
+line-height: 34px;
+z-index: 1;
+list-style: none;
+}
+.f9 .tab_item a{
+float: left;
+height: 32px;
+padding: 0 16px;
+text-decoration: none;
+line-height: 34px;
+overflow: hidden;
+background: #fff;
+white-space: nowrap;
+margin-top: 0px;
+}
+.f9 .mc{
+	width: 1210px;
+	height: 474px;
+}
+.f9 .side{
+	width: 210px;
+	height: 474px;
+}
+.f9 .mainselecter{
+width: 1000px;
+	height: 474px;
+}
+.f9 .sideinner{
+	position: relative;
+width: 210px;
+background: #e5ebeb;
+overflow: hidden;
+display: block;
+}
+.f9 .themes{
+	display: block;
+	position: relative;
+padding-left: 10px;
+height: 92px;
+width: 210px;
+margin-top: -237px;
+overflow: hidden;
+background: rgba(255,255,255,.5);
+}
+.f9 .themes li{
+	float: left;
+width: 98px;
+height: 26px;
+padding: 10px 0;
+}
+.f9 .themes a{
+	float: left;
+width: 92px;
+height: 26px;
+}
+.f9 .themes .bore1 .icon{
+	background: url(../image/f6-icon.png) 0 0 no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f9 .themes .bore2 .icon{
+	background: url(../image/f6-icon.png) 0 -26px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f9 .themes .bore3 .icon{
+	background: url(../image/f6-icon.png) 0 -52px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f9 .themes .bore2 .icon{
+	background: url(../image/f6-icon.png) 0 -78px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f9 .words{
+	height: 76px;
+}
+.f9 .words li{
+float: left;
+width: 165px;
+height: 48px;
+padding: 7px 0 0 25px;
+overflow: hidden;
+}
+.f9 .words a{
+float: left;
+/*width: 36px;
+height: 24px;*/
+margin-right: 10px;
+line-height: 24px;
+}
+.f9 .words span{
+line-height: 0;
+}
+.words{
+	font-family: 宋体;
+}
+.f9 .mainbody{
+	float: left;
+width: 780px;
+display: block;
+}
+.f9 .mainbody li{
+float: left;
+height: 237px;
+width: 220px;
+overflow: hidden;
+font-size: 0;
+}
+.f9 .mainbody .bore2{
+padding-left: 340px;}
+.f9 .mainbody .bore4{
+padding-left: 340px;}
+.f9 .mainbody a{
+float: left;
+height: 236px;
+width: 219px;
+overflow: hidden;
+font-size: 0;
+}
+.f9 .mainextra li{
+width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 237px;
+}
+.f9 .mainextra a{
+	display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+width: 219px;
+height: 236px;
+}
+.f10{
+
+	height: 577px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;
+
+}
+.livings{
+	display: block;
+	overflow: hidden;
+	width: 1210px;
+	height: 511px;
+}
+.livings .mt i{
+background: url(../image/pro.png?__sprite) no-repeat 0 0;
+background-position: 0 0;
+position: absolute;
+top: 2px;
+left: 0;
+width: 21px;
+height: 25px;
+padding-right: 10px;
+
+font-size: 13px;
+color: #fff;
+text-align: center;
+overflow: hidden;
+font-family: "microsoft yahei";
+font-weight: 400;
+line-height: 30px;
+}
+.f10 .tab{
+	width: 550px;
+	height: 34px;
+	margin-top: 1px;
+	float: right;
+display: inline;
+border: solid 1px #ededed;
+border-bottom: 0 none;
+line-height: 34px;
+z-index: 1;
+list-style: none;
+}
+
+.f10.tab_item a{
+float: left;
+height: 32px;
+padding: 0 16px;
+text-decoration: none;
+line-height: 34px;
+overflow: hidden;
+background: #fff;
+white-space: nowrap;
+margin-top: 0px;
+}
+.f10 .mc{
+	width: 1210px;
+	height: 474px;
+}
+.f10 .side{
+	width: 210px;
+	height: 474px;
+}
+.f10 .mainselecter{
+width: 1000px;
+	height: 474px;
+}
+.f10 .ideinner{
+	position: relative;
+width: 210px;
+background: #e5ebeb;
+overflow: hidden;
+display: block;
+}
+.f10 .themes{
+	display: block;
+	position: relative;
+padding-left: 10px;
+height: 92px;
+width: 210px;
+margin-top: -237px;
+overflow: hidden;
+background: rgba(255,255,255,.5);
+}
+.f10 .themes li{
+	float: left;
+width: 98px;
+height: 26px;
+padding: 10px 0;
+}
+.f10 .themes a{
+	float: left;
+width: 92px;
+height: 26px;
+}
+.f10 .themes .bore1 .icon{
+	background: url(../image/f7icon.png) 0 0 no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f10 .themes .bore2 .icon{
+	background: url(../image/f7icon.png) 0 -26px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f10 .themes .bore3 .icon{
+	background: url(../image/f7icon.png) 0 -52px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f10 .themes .bore2 .icon{
+	background: url(../image/f7icon.png) 0 -78px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f10 .words{
+	height: 76px;
+}
+.f10 .words li{
+float: left;
+width: 165px;
+height: 48px;
+padding: 7px 0 0 25px;
+overflow: hidden;
+}
+.f10 .words a{
+float: left;
+/*width: 36px;
+height: 24px;*/
+margin-right: 10px;
+line-height: 24px;
+}
+.f10 .words span{
+line-height: 0;
+}
+.words{
+	font-family: 宋体;
+}
+.f10 .mainbody{
+	float: left;
+width: 780px;
+display: block;
+}
+.f10 .mainbody li{
+float: left;
+height: 237px;
+width: 220px;
+overflow: hidden;
+font-size: 0;
+}
+.f10 .mainbody .bore2{
+padding-left: 340px;}
+.f10 .mainbody .bore4{
+padding-left: 340px;}
+.f10 .mainbody a{
+float: left;
+height: 236px;
+width: 219px;
+overflow: hidden;
+font-size: 0;
+}
+.f10 .mainextra li{
+width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 237px;
+}
+.f10 .mainextra a{
+	display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+width: 219px;
+height: 236px;
+}
+.f11{
+
+	height: 578px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;
+}
+
+.babys{
+	display: block;
+	overflow: hidden;
+	width: 1210px;
+	height: 511px;
+}
+.babys .mt i{
+background: url(../image/pro.png?__sprite) no-repeat 0 0;
+background-position: 0 0;
+position: absolute;
+top: 2px;
+left: 0;
+width: 21px;
+height: 25px;
+padding-right: 10px;
+
+font-size: 13px;
+color: #fff;
+text-align: center;
+overflow: hidden;
+font-family: "microsoft yahei";
+font-weight: 400;
+line-height: 30px;
+}
+.f11 .tab{
+	width: 632px;
+	height: 34px;
+	margin-top: 1px;
+	float: right;
+display: inline;
+border: solid 1px #ededed;
+border-bottom: 0 none;
+line-height: 34px;
+z-index: 1;
+list-style: none;
+}
+
+.f11.tab_item a{
+float: left;
+height: 32px;
+padding: 0 16px;
+text-decoration: none;
+line-height: 34px;
+overflow: hidden;
+background: #fff;
+white-space: nowrap;
+margin-top: 0px;
+}
+.f11 .mc{
+	width: 1210px;
+	height: 474px;
+}
+.f11 .side{
+	width: 210px;
+	height: 474px;
+}
+.f11 .mainselecter{
+width: 1000px;
+	height: 474px;
+}
+.f11 .sideinner{
+	position: relative;
+width: 210px;
+background: #e5ebeb;
+overflow: hidden;
+display: block;
+}
+.f11 .themes{
+	display: block;
+	position: relative;
+padding-left: 10px;
+height: 92px;
+width: 210px;
+margin-top: -237px;
+overflow: hidden;
+background: rgba(255,255,255,.5);
+}
+.f11 .themes li{
+	float: left;
+width: 98px;
+height: 26px;
+padding: 10px 0;
+}
+.f11 .themes a{
+	float: left;
+width: 92px;
+height: 26px;
+}
+.f11 .themes .bore1 .icon{
+	background: url(../image/f8icon.png) 0 0 no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f11 .themes .bore2 .icon{
+	background: url(../image/f8icon.png) 0 -26px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f11 .themes .bore3 .icon{
+	background: url(../image/f8icon.png) 0 -52px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f11 .themes .bore2 .icon{
+	background: url(../image/f8icon.png) 0 -78px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f11 .words{
+	height: 76px;
+}
+.f11 .words li{
+float: left;
+width: 165px;
+height: 48px;
+padding: 7px 0 0 25px;
+overflow: hidden;
+}
+.f11 .words a{
+float: left;
+/*width: 36px;
+height: 24px;*/
+margin-right: 10px;
+line-height: 24px;
+}
+.f11 .words span{
+line-height: 0;
+}
+.words{
+	font-family: 宋体;
+}
+.f11 .mainbody{
+	float: left;
+width: 780px;
+display: block;
+}
+.f11 .mainbody li{
+float: left;
+height: 237px;
+width: 220px;
+overflow: hidden;
+font-size: 0;
+}
+.f11 .mainbody .bore2{
+padding-left: 340px;}
+.f11 .mainbody .bore4{
+padding-left: 340px;}
+.f11 .mainbody a{
+float: left;
+height: 236px;
+width: 219px;
+overflow: hidden;
+font-size: 0;
+}
+.f11 .mainextra li{
+width: 220px;
+overflow: hidden;
+font-size: 0;
+height: 237px;
+}
+.f11 .mainextra a{
+	display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+width: 219px;
+height: 236px;
+}
+
+
+
+
+
+.f9{
+
+	height: 577px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;
+
+}
+.f9{
+
+	height: 577px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;
+
+}
+.f9{
+
+	height: 577px;
+margin: 0 auto;
+margin-bottom: 30px;
+width: 1210px;	
+background: 0 0;
+
 }
 /*botall end*/
