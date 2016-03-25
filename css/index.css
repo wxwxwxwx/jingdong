@@ -3882,13 +3882,66 @@ font-size: 20px;
 font-family: "microsoft yahei";
 font-weight: 400;
 }
-
-
 .life .mc{
 width: 1210px;
 height:475px;	
 overflow: hidden;
 float: left;
+}
+.life .mc .side{
+float: left;
+width: 210px;
+overflow: hidden;
+font-family: "microsoft yahei";
+height: 475px;
+display: block;
+}
+.life .mc .sideinner{
+	position: relative;
+width: 210px;
+height: 474px;
+background: #e5ebeb;
+overflow: hidden;
+display: block;
+}
+.life .banner{
+	position: relative;
+height: 474px;
+width: 210px;
+display: block;
+}
+.life .themes{
+	position: relative;
+padding-left: 10px;
+height: 92px;
+margin-top: -237px;
+overflow: hidden;
+background: rgba(255,255,255,.5);
+}
+.life .assists{	
+position: relative;
+height: 48px;
+width: 210px;
+padding: 21px 0 0;
+font-size: 14px;
+line-height: 24px;
+overflow: hidden;
+background: rgba(255,255,255,.7);
+}
+.life .words{
+	position: relative;
+height: 76px;
+background: rgba(255,255,255,.7);
+font-family: 宋体;
+width: 210px;
+}
+.life .mc .main{
+position: relative;
+float: left;
+width: 395px;
+height: 475px;
+overflow: hidden;
+border-top: none;
 }
 
 
