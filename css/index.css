@@ -2188,8 +2188,8 @@ height: 26px;
 	background: url(../image/f3-icon.png) 0 -26px no-repeat;
 
 }
-.f5 .mc .themes .bore2 .icon{
-	background: url(../image/f3-icon.png) 0 -52px no-repeat;
+.f5 .mc .themes .bore3 .icon{
+	background: url(../image/f3-icon.png) 0 -26px no-repeat;
 
 }
 .f5 .mc .assists{
@@ -2901,7 +2901,7 @@ margin-right: 5px;
 	width: 26px;
 margin-right: 5px;
 }
-.f9 .themes .bore2 .icon{
+.f9 .themes .bore4 .icon{
 	background: url(../image/f6-icon.png) 0 -78px no-repeat;
 	width: 26px;
 margin-right: 5px;
@@ -3078,7 +3078,7 @@ margin-right: 5px;
 	width: 26px;
 margin-right: 5px;
 }
-.f10 .themes .bore2 .icon{
+.f10 .themes .bore4 .icon{
 	background: url(../image/f7icon.png) 0 -78px no-repeat;
 	width: 26px;
 margin-right: 5px;
@@ -3255,7 +3255,7 @@ margin-right: 5px;
 	width: 26px;
 margin-right: 5px;
 }
-.f11 .themes .bore2 .icon{
+.f11 .themes .bore4 .icon{
 	background: url(../image/f8icon.png) 0 -78px no-repeat;
 	width: 26px;
 margin-right: 5px;
@@ -3430,7 +3430,7 @@ margin-right: 5px;
 	width: 26px;
 margin-right: 5px;
 }
-.f12 .themes .bore2 .icon{
+.f12 .themes .bore4 .icon{
 	background: url(../image/f9icon.png) 0 -78px no-repeat;
 	width: 26px;
 margin-right: 5px;
@@ -3620,7 +3620,7 @@ margin-right: 5px;
 	width: 26px;
 margin-right: 5px;
 }
-.f14 .themes .bore2 .icon{
+.f14 .themes .bore4 .icon{
 	background: url(../image/f10icon.png) 0 -78px no-repeat;
 	width: 26px;
 margin-right: 5px;
@@ -3917,8 +3917,21 @@ height: 92px;
 margin-top: -237px;
 overflow: hidden;
 background: rgba(255,255,255,.5);
+width: 200px;
+height: 92px;
 }
-.life .assists{	
+.f15 .themes li{
+	width: 170px;
+padding: 10px 0 10px 15px;
+float: left;
+height: 26px;
+}
+.f15 .themes a{
+	width: 96px;
+float: left;
+height: 26px;
+}
+.f15 .assists{	
 position: relative;
 height: 48px;
 width: 210px;
@@ -3928,12 +3941,38 @@ line-height: 24px;
 overflow: hidden;
 background: rgba(255,255,255,.7);
 }
+
 .life .words{
 	position: relative;
 height: 76px;
 background: rgba(255,255,255,.7);
 font-family: 宋体;
 width: 210px;
+}
+.life .words li{
+float: left;
+width: 165px;
+height: 48px;
+padding: 7px 0 0 25px;
+overflow: hidden;
+}
+
+.life .words span{
+color: #C81623;	
+}
+.life .words .wordss{
+float: left;
+margin-right: 10px;
+line-height: 24px;
+white-space: nowrap;
+color: #999;	
+width: 36px;
+height: 24px;
+display: block;
+}
+.life .words .wordss{	
+width: 48px;
+
 }
 .life .mc .main{
 position: relative;
@@ -3942,6 +3981,63 @@ width: 395px;
 height: 475px;
 overflow: hidden;
 border-top: none;
+}
+.life .main{
+	width: 395px;
+height: 475px;
+border-top: none;
+position: relative;
+float: left;
+overflow: hidden;
+}
+.life .maininner{
+display: block;
+padding-left: 0;
+}
+.life .mainbody{
+
+padding-top: 236px;
+width: 395px;
+height: 238px;
+float: left;
+display: block;
+}
+.life .mainbody li{
+	float: left;
+width: 197px;
+height: 119px;
+margin-top: 0;
+display: block;
+overflow: hidden;
+font-size: 0;
+}
+.life .mainbody a{
+display: block;
+border-right: 1px solid #EDEDED;
+border-bottom: 1px solid #EDEDED;
+overflow: hidden;
+width: 196px;
+height: 117px;
+}
+.f15 .themes .bore1 .icon{
+	background: url(../image/f11icon.png) 0 0 no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f15 .themes .bore2 .icon{
+	background: url(../image/f11icon.png) 0 -26px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f15 .themes .bore3 .icon{
+	background: url(../image/f11icon.png) 0 -52px no-repeat;
+	width: 26px;
+margin-right: 5px;
+}
+.f15 .themes .bore4 .icon{
+	background: url(../image/f11icon.png) 0 -78px no-repeat;
+	width: 26px;
+margin-right: 5px;
 }
 
 
