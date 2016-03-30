@@ -412,3 +412,26 @@ li[num].className=classover
 }
 
 // 轮播图结束
+
+
+
+
+var xiala=function(over,hidden,change,addcl){
+  var give=document.getElementsByClassName(over)[0]
+  var hidden=document.getElementsByClassName(hidden)[0]
+  var s=give.getElementsByClassName(change)[0]
+
+  give.onmouseover=function(){
+
+  
+  // console.log(s)
+  s.classList.add(addcl)
+  hidden.style.display='block'
+  give.onmouseout=function(){
+
+  hidden.style.display='none'
+  s.classList.remove(addcl)
+  
+}
+}
+}

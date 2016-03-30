@@ -10,6 +10,7 @@ var btn=allgain("div",wins)
 console.log(li)
 console.log(img)
     carousel(win,li,img,btn,2000,500,"hot","slider-item")
+
 // var num=0;
 //  li[0].className="hot"
 //  img[0].style.zIndex=10000000
@@ -48,4 +49,8 @@ console.log(img)
 // // console.log(getComputedStyle(li[num],null).className)
 // }
 // // 轮播图结束
+xiala('leftmin','ddd','giveins','giveinss')
+
+xiala('right3','dd1','myjd','myjds')
+
 }
