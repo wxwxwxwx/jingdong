@@ -52,5 +52,6 @@ console.log(img)
 xiala('leftmin','ddd','giveins','giveinss')
 
 xiala('right3','dd1','myjd','myjds')
-
+xiala('right6','dd2','sjjd','sjjds')
+xiala('right7','dd3','gzjd','gzjds')
 }

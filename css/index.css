@@ -329,6 +329,9 @@ display: block;
 	height: 30px;
 	padding: 0 2px;
 }
+.right6:hover{
+	background: white;
+}
 .right6div{
 	width:48px;
 	height: 30px;
@@ -339,6 +342,56 @@ display: block;
 	padding-right: 25px;
 	position: relative;
 }
+.phonejds{
+top: 12px;
+right: 8px;
+height: 7px;
+overflow: hidden;
+font: 400 15px/15px consolas;
+color: #6A6A6A;
+transition: transform .1s ease-in 0s;
+display: block;
+position: absolute;
+}
+.sjjd{
+	position: relative;
+top: -7px;
+text-decoration: none;
+font: 400 15px/15px consolas;
+color: #6A6A6A;
+}
+.sjjds{
+top: 2px;
+}
+.dd2{
+width: 250px;
+top: 30px;
+background: #fff;
+border: 1px solid #ddd;
+line-height: 24px;
+display: none;
+position: absolute;
+}
+.dd2 .dd-inner{
+background: transparent url("../image/sjjd.png") repeat scroll 0% 0%;
+position: relative;
+width: 250px;
+height: 195px;
+overflow: hidden;
+border: 0;
+}
+.dd2 .dd-inner a{
+left: 92px;
+top: 6px;
+background-position: 0 -44px;
+width: 100px;
+height: 20px;
+overflow: hidden;
+display: block;
+position: absolute;
+text-indent: -500px;
+}
+
 .phonejd{
 	top: 5px;
 	left: 7px;
@@ -348,6 +401,10 @@ display: block;
 	display: block;
 	position: absolute;
 	overflow: hidden;
+}
+.phonejd:hover{
+	/*background: red;*/
+	color: red;
 }
 .right7{
 	width: 82px;
@@ -363,6 +420,39 @@ display: block;
 	width: 49px;
 	padding-right: 25px;
 }
+.gzjdi{
+top: 12px;
+right: 253px;
+height: 7px;
+overflow: hidden;
+font: 400 15px/15px consolas;
+color: #6A6A6A;
+transition: transform .1s ease-in 0s;
+display: block;
+position: absolute;
+}
+.gzjd{
+	position: relative;
+top: -7px;
+text-decoration: none;
+font: 400 15px/15px consolas;
+color: #6A6A6A;
+}
+.gzjds{
+top: 2px;
+}
+.dd3{
+width: 82px;
+padding-bottom: 8px;
+top: 30px;
+background: #fff;
+border: 1px solid #ddd;
+display: none;
+position: absolute;
+line-height: 24px;
+}
+
+
 .right8{
 	width: 82px;
 	float: left;
@@ -392,13 +482,21 @@ display: block;
 	line-height: 30px;
 }
 .spacer{
-	width: 1px;
+	/*width: 1px;
 	height: 12px;
 	margin-top: 9px;
 	padding: 0;
 	background: #ddd;
 	overflow: hidden;
-	float: left;
+	float: left;*/
+	width: 1px;
+height: 12px;
+margin-top: 9px;
+padding: 0;
+background: #ddd;
+overflow: hidden;
+float: left;
+height: 12px;
 }
 
 
@@ -1390,7 +1488,7 @@ height: 466px;
 	overflow: visible;
 	display: block;
 }
-.spacer{
+.onebot .spacer{
 	position: relative;
 	height: 1px;
 	line-height: 0;
